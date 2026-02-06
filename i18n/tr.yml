@@ -1,0 +1,172 @@
+- id: title
+  translation: "Kaplama Bilgi Formu"
+- id: metaDescription
+  translation: "Erişilebilirlik kaplamaları hakkında açık bir mektup."
+- id: skip
+  translation: "İçeriğe atla"
+- id: lang
+  translation: "Dil değiştir"
+- id: tableContent
+  translation: "İçindekiler"
+- id: topic01
+  translation: "Web erişilebilirlik kaplaması nedir?"
+- id: topic01p01
+  translation: "Kaplamalar, bir web sitesinin erişilebilirliğini iyileştirmeyi amaçlayan teknolojiler için geniş bir terimdir. Web sitesinin ön uç kodunda iyileştirmeler yapmak için üçüncü taraf kaynak kodu (genellikle JavaScript) uygularlar."
+- id: topic01p02
+  translation: "Erişilebilirliği iyileştirdiğini iddia eden web sitesi eklenti ürünleri, 1990'ların sonlarına kadar <a href=\"https://web.archive.org/web/20251030*/https://en.wikipedia.org/wiki/Hoya_Corporation#ReadSpeaker\">Readspeaker</a> ve <a href=\"https://en.wikipedia.org/wiki/BrowseAloud\">Browsealoud</a> gibi ürünlerle uzanır. Yüklendikleri web sitesi(leri)ne metinden konuşmaya yetenekleri eklediler."
+- id: topic01p03
+  translation: "Daha sonra yazılımlarına daha fazla araç ekleyen benzer ürünler piyasaya çıktı. Bunlar, okunabilirliği artırmak için yazı tipi boyutları ve renkler gibi şeylerin kullanıcı tabanlı kontrolüne izin verir."
+- id: topic01p04
+  translation: "Bazı yeni kaplama ürünleri, yardımcı teknolojinin kolayca kullanılmasını engelleyen sitedeki koddaki sorunları düzeltmeyi amaçlar. Sayfaya kodu tarayan ve sorunu otomatik olarak onarmaya çalışan bir betik uygularlar."
+- id: topic01p05
+  translation: "Web erişilebilirlik kaplamalarının bazı örnekleri (alfabetik sıraya göre):"
+- id: topic01p06
+  translation: "*: bu ürünlerin artık geliştirilmediğini veya pazarlanmadığını belirtir."
+- id: topic01p07
+  translation: "Kaplama ürünleri bazen beyaz etiketlidir (başka isimler altında satılır) veya belirli pazarlar için yeniden markalandırılır, bu nedenle bu, bu sayfada tartışılan ürün türünün tam bir listesi değildir."
+- id: topic02
+  translation: "Kaplama "widget"larının güçlü ve zayıf yönleri"
+- id: topic02p01
+  translation: "Kaplama widget'ları gereksizdir ve teknoloji yığınında yanlış yerleştirilmiştir."
+- id: topic02p02
+  translation: "Yukarıda belirtildiği gibi, bazı kaplama ürünleri, üzerinde bulundukları sayfanın sunumunu değiştiren bir dizi kontrol sunan widget'lar içerir. Ürüne bağlı olarak, bu değişiklikler sayfa kontrastını değiştirmek, sayfanın metninin boyutunu büyütmek veya engelli kullanıcılar için deneyimi iyileştirmeyi amaçlayan sayfada başka değişiklikler yapmak gibi şeyler yapabilir."
+- id: topic02p03
+  translation: "Sıradan insanlara göre bu özellikler faydalı görünebilir, ancak pratik değerleri büyük ölçüde abartılmıştır çünkü bu özelliklerin hizmet ettiğini iddia ettiği son kullanıcılar, bilgisayarlarında gerekli özelliklere zaten sahip olacaktır; yerleşik bir özellik olarak veya kullanıcının yalnızca Web'e değil tüm yazılımlara erişmek için ihtiyaç duyduğu ek bir yazılım parçası olarak."
+- id: topic02p04
+  translation: "Bu son nokta üzerine, kaplama widget'ı tarafından sağlanan özelliklerin son kullanıcılar tarafından fazla kullanılacağına inanmak bir hatadır çünkü bu özellikler web sitesini kullanmak için <strong>gerekliyse</strong>, kullanıcının etkileşimde bulunduğu tüm web siteleri için gerekli olurdu. Bunun yerine, widget —en iyi ihtimalle— kullanıcının zaten sahip olduğu şeyle gereksiz işlevselliğe sahiptir."
+- id: topic03
+  translation: "Otomatik onarımın güçlü ve zayıf yönleri"
+- id: topic03p01
+  translation: "Bazı otomatik onarımlar mümkün olsa da, müşterilerin uzun vadeli bir çözüm olarak kaplama kullanmaları önerilmemelidir."
+- id: topic03p02
+  translation: "Bazı kaplama ürünleri, kaplamanın eklendiği temel sayfaya erişilebilirlik onarımları sağlamayı amaçlayan yeteneklere sahiptir. Bu onarımlar, sayfa kullanıcının tarayıcısına yüklendiğinde uygulanır."
+- id: topic03p03
+  translation: "Bu şekilde önemsiz olmayan bir dizi erişilebilirlik sorununun onarılabileceği doğru olsa da, bu tür onarımın niteliği, kapsamı ve doğruluğu bir dizi önemli faktörle sınırlıdır:"
+- id: topic03p04
+  translation: "Görüntüler için metin alternatiflerinin otomatik uygulaması güvenilir değildir"
+- id: topic03p05
+  translation: "Formlarda alan etiketlerinin, hata yönetiminin, hata işlemenin ve odak kontrolünün otomatik onarımı güvenilir değildir"
+- id: topic03p06
+  translation: "Klavye erişiminin otomatik onarımı güvenilir değildir"
+- id: topic03p07
+  translation: "ReactJS, Angular veya Vue kullananlar gibi modern, bileşen tabanlı kullanıcı arayüzleri, tüm veya bazı temel sayfaların durumunu kaplamadan bağımsız olarak değiştirebilir ve içeriğe JavaScript odaklı bu değişiklikleri düzeltmesini imkansız hale getirebilir"
+- id: topic03p08
+  translation: "Sayfaya yapılan onarımlar, sayfa yükleme sürelerini yavaşlatabilir veya yardımcı teknoloji kullanıcıları için beklenmedik sayfa değişikliklerine neden olabilir."
+- id: topic03p09
+  translation: "Yukarıdakilere ek olarak, kaplamalar Flash, Java, Silverlight, PDF, HTML5 Canvas, SVG veya medya dosyalarındaki içeriği onarmaz."
+- id: topic04
+  translation: "Erişilebilirlik standartlarına uygunluk için uygunluk"
+- id: topic04p01
+  translation: "Bir kaplamanın kullanımı, ana erişilebilirlik standartlarındaki bir avuç hükümle uyumluluğu iyileştirebilirken, bir kaplama ile tam uyumluluk elde edilemez."
+- id: topic04p02
+  translation: "Kaplama satıcıları tarafından yapılan birçok iddia arasında, ürünlerinin kullanımının siteyi WCAG 2.x, ilgili ve türev standartlar ve bu standartlara uygunluğu zorunlu kılan yasalar gibi erişilebilirlik standartlarıyla uyumlu hale getireceği iddiası da vardır."
+- id: topic04p03
+  translation: "Bir standarda uygunluk, standardın 'gereksinimlerini' karşıladığınız veya yerine getirdiğiniz anlamına gelir. WCAG 2.0'da 'gereksinimler' Başarı Kriterleridir. WCAG 2.0'a uymak için Başarı Kriterlerini karşılamanız gerekir, yani Başarı Kriterlerini ihlal eden içerik yoktur."
+- id: topic04p04
+  translation: "Uygunluğun standardın tüm gereksinimlerini karşılamak olarak tanımlandığı göz önüne alındığında, bu ürünlerin <strong>tüm</strong> olası sorunları onaramayacağına dair belgelenmiş yetersizliği, bir web sitesini uyumlu hale getiremeyecekleri anlamına gelir. Bu tür iddialarla pazarlanan ürünlere önemli ölçüde şüpheyle bakılmalıdır."
+- id: topic05
+  translation: "Kişisel verilerin gizliliği"
+- id: topic05p01
+  translation: "Sitenize bir kaplama eklemek, son kullanıcıların gizlilik tercihlerine aykırı olabilir ve GDPR, UK GDPR, CCPA vb. ile uyumsuzluk riski oluşturabilir."
+- id: topic05p02
+  translation: "Ekran okuyucu veya konuşma tanıma kullanıcıları gibi belirli ayarları otomatik olarak etkinleştiren kaplamalar, bunu cihazda bir yardımcı teknolojinin çalıştığını algılayarak yaparlar. Bu, o anda cihazı kullanan kişinin engelli olduğu gerçeğini ortaya çıkarır. Çoğunluğu kör veya az gören ekran okuyucu kullanıcıları gibi belirli durumlarda, engellerinin doğası hakkında daha fazla ayrıntı ortaya çıkarır. Yaş, etnik köken veya tercih edilen cinsiyet gibi, engellilik hassas kişisel bilgidir. Kendisine ait olan kişinin bilgilendirilmiş rızası olmadan toplanmaması gereken verilerdir."
+- id: topic05p03
+  translation: "Bazı kaplamaların, aynı kaplamayı kullanan sitelerde kullanıcıların ayarlarını kalıcı hale getirdiği bulunmuştur. Bu, kullanıcının bilgisayarında bir çerez ayarlanarak yapılır. Kullanıcı bir sitede bir kaplama özelliği için bir ayarı etkinleştirdiğinde, kaplama bu özelliği diğer sitelerde otomatik olarak açacaktır. Kaplama şirketi son kullanıcı için iyi bir şey yaptıklarını düşünebilir, ancak büyük gizlilik sorunu, kullanıcının izlenmek için hiçbir zaman izin vermemesidir ve ayrıca devre dışı bırakma yeteneği yoktur. Bu devre dışı bırakma eksikliği nedeniyle (bu ayarı açıkça kapatmaktan başka), bu, kaplama müşterisi için Genel Veri Koruma Yönetmeliği (GDPR) ve California Tüketici Gizlilik Yasası (CCPA) riski oluşturur."
+- id: topic06
+  translation: "Kendi sözleriyle"
+- id: topic06p01
+  translation: "Engelli birçok kullanıcı, kaplama ürünlerine ilişkin güçlü memnuniyetsizlik sözleri ifade etmiştir. Aşağıda gösterildiği gibi, kaplamaların kendilerinin, kullanıcıların kaplamaların hiç görünmemesi için aktif olarak adımlar atmasına neden olacak kadar önemli erişilebilirlik sorunları olabilir."
+- id: topic06p02
+  translation: "Lütfen dikkat: bu bölüm belirli satıcılardan bahsedebilir, ancak bu yorumlar, kaplama widget'ları söz konusu olduğunda standart bir durumdur ve bunların kendileri, kullanıcı deneyimini olumsuz etkileyen bir modele sahiptir."
+- id: topic06t01
+  translation: "...aracınızın bir şeyi erişilebilir hale getirmede iyi bir iş çıkarabileceğini varsayarsak, kullanıcının makinesinde doğrudan makine koduna ve makine API'lerine erişerek bir şeyi erişilebilir hale getirmede daha da iyi bir iş çıkarabilir"
+- id: topic06t02
+  translation: "...sonunda Windows Hosts dosyamda #AccessiBe'yi engelleyerek @NameCheap hesabıma erişmeyi başardım. İnterneti kullanmak için bunu yapmam gerekmemeli. AccessiBe'nin AccessiBeGone olması gerekiyor"
+- id: topic06t03
+  translation: "...Son bir buçuk yılda kaplama dağıtan herhangi bir sitenin hem benim hem de karım için —her ikimiz de kör— daha az kullanılabilir olduğundan %100 eminlikle biliyorum."
+- id: topic06t04
+  translation: "...Mobil cihazda makaleyi okumaya çalışmak bile birkaç saniyede bir sürekli kesinti nedeniyle hala acı verici. Hizmetinizi kullanan her sitenin de bu sorunu olduğu göz önüne alındığında… Hayır."
+- id: topic06t05
+  translation: "...Bir web sayfasını erişilebilir hale getirmek iş gerektirir ve bir işletmeye eklentinizi yükleyebileceklerini söylemek kesinlikle aptallıktır, WCAG standartlarını kullanarak bir web sayfasına erişilebilirliği inşa eder ve tasarlarsınız."
+- id: topic06t06
+  translation: "...Bir satır kodun ucuz olduğunu ve bu nedenle bunu yapmanız gerektiğini söylemek, çıkarımla engelli yaşamların da yatırım yapmaya değer olmadığını önerir. #a11y"
+- id: topic06t07
+  translation: "@AccessiBe İyi niyetimi göstermek için işte https://t.co/1mQGCCtnIs'nin hızlı bir ücretsiz denetimi. Gezinmenin standart yolu olan \"sekme\"yi yakalıyorsunuz. Sayfada gezinmek istiyorsam kaplamanızı etkinleştirmemenin bir yolu yok. Kaplama etkinleştirildiğinde, çılgın şeyler oluyor."
+- id: topic06t08
+  translation: "#AccessiBe, gözatmanın önüne geçerek ve bir sayfadaki erişim engellerini onarmayarak değiştirerek siteleri kullanmayı zorlaştırıyor. Bir öğrenci ve ben \"geliştirilmiş\" bir web sitesiyle karşılaştık ve utancımla, o karmaşayı gezinmek o günkü becerilerimin ötesinde olduğu için ayrıldık."
+- id: topic06t09
+  translation: "Erişilebilirlik kaplamaları cevap değildir ve AccessiBe de istisna değildir. Bir ekran okuyucu kullanıcısı olarak, bu kaplama ile çok sayıda site benim için daha az kullanılabilir hale geldi. Saygın erişilebilirlik profesyonellerini ve savunucularını itibarsızlaştırmak bu görüş üzerinde beni ikna etmeyecek. https://web.archive.org/web/20251030*/https://t.co/ZgFt8JtsbZ"
+- id: topic06t10
+  translation: "Ekran okuyucu kullanan takipçilere: İçine gömüldüğü sayfaları daha erişilebilir hale getirdiğini iddia eden bir kaplama olan #Accessibe'yi duymuş olabilirsiniz. Daha fazla ayrıntıya girmeyeceğim. Kısacası: tamamen saçmalık. Eller çeksin!"
+- id: topic06t11
+  translation: "Sitenizi erişilebilir hale getirmeyi vaat eden otomatik çözümler yapamaz. Bu gereksinimi başarmak için otomasyondan daha fazlası gerekir. Sorumluluktan güvende olmayacaksınız. neredeyse kesinlikle engelli müşterilerinizi olumsuz etkileyeceksiniz."
+- id: topic06t12
+  translation: "Bir web sitesine her gittiğimde ve #accessiBe'nin bu sitenin ekran okuyucuma ayarlandığı bildirimini duyduğumda, engelleyicimin düzgün çalışmadığını ve o belirli web sitesinde cehennem gibi bir deneyim yaşayacağımı biliyorum. https://web.archive.org/web/20251030*/https://t.co/ZFzKMfUe0t"
+- id: topic06t13
+  translation: "Bu @AccessiBe sitesini iOS'ta Chrome'da VoiceOver ile kullanmayı denedim. 4 yıldızlı derecelendirme \"telaffuz edilemez\" olarak duyuruluyor 🤦‍♀️ https://t.co/f4MxQ2eLLP"
+- id: topic06t14
+  translation: "Müşteri hizmetlerine kaplama nedeniyle sitelerini kullanamadığımı ayrıntılarıyla anlatan bir e-posta yazdım, ama… Gerçekten hayal kırıklığına uğradım, ancak dinlediklerini umuyorum. @Goodfair_ - lütfen AccessiBe kullanmayı bırakın."
+- id: topic06t15
+  translation: "Ben bir erişilebilirlik uzmanı değilim, sadece iyi becerilere sahip bir ekran okuyucu kullanıcısıyım ve size bu konunun tam isabet olduğunu ve #AccessiBe ile ilgili deneyimimin erişilebilirlik sorunları olan siteleri çözmeyi daha da zorlaştırdığını söylüyorum. https://t.co/cfyrEqXwTy"
+- id: topic06t16
+  translation: "...Kör veya az görüyorsanız ve ekran okuyucular gibi yardımcı teknolojilere güveniyorsanız, popüler web sitelerinin daha az kullanılabilir hale gelmeye başladığını fark etmiş olabilirsiniz… bu sayfa AccessiBe'nin bilgisayarınıza ulaşmasını nasıl yasaklayacağınızı açıklıyor… https://t.co/qbiKvolizS"
+- id: topic06t17
+  translation: "Tamam, bu bana çok yanlış görünüyor. Burada Fleet Farm adlı yerel bir zincir artık AccessiBe kullanıyor. Konum arama özelliğini karıştırıyor. Şimdi sonuç sayfasının başlangıcında bunu alıyorum."
+- id: topic06t18
+  translation: "Şükürler olsun Firefox erişilebilirlik algılamalarını engelliyor. Benim için, #AccessiBe etkinken odak her yere atlıyor. Devre dışı bırakıldığında, kendini topluyor."
+- id: topic06t19
+  translation: "Erişilebilirlik sorunlarını zamanın %30'unun üzerinde herhangi bir şeyde doğru şekilde tespit edebilen 0 otomatik araç vardır. 0. Bu, bu alanda en az bir hafta boyunca olan herkes tarafından yaygın olarak bilinir. #AccessiBe"
+- id: topic06t20
+  translation: "Web sitelerini erişilebilir hale getirmek için mükemmel pratik bir araç var. Buna programcı denir. Bir web sitesini erişilebilir hale getirmede önemli olan ihtiyaçlar kullanıcılarınkilerdir. Bunları karşılayamıyorsanız, o zaman iş yapmanın temel maliyetlerini karşılayamazsınız."
+- id: topic06t21
+  translation: "#AccessiBe etkinleştirildiğinde, sayfa başlıklarla doluyor. Birçok 2. seviye başlık. Her telefonun başlığı sayfanın her iki versiyonunda da bir başlık olarak kalıyor, ancak etkinleştirildiğinde, maliyet, ekran ve tabloların diğer tüm bileşenleri gibi şeyler de başlık haline geliyor."
+- id: topic07
+  translation: "Sonuç"
+- id: topic07p01
+  translation: "Piyasadaki hiçbir kaplama ürünü, bir web sitesinin mevcut herhangi bir erişilebilirlik standardına tam olarak uyumlu hale gelmesine neden olamaz ve bu nedenle yasal riski ortadan kaldıramaz."
+- id: topic07p02
+  translation: "Web'de erişilebilirlik, hem web sitesi sahipleri hem de bu web sitelerinin kullanıcıları için büyük bir zorluktur. Bu zorluğu çözmek için yeni yaklaşımların icadı takdir edilmelidir."
+- id: topic07p03
+  translation: "Ancak, kaplamalar söz konusu olduğunda —özellikle yardımcı özellikler sunan widget'lar eklemeye çalışanlar— zorluk karşılanmamaktadır. Daha da sorunlu olan, ürünlerini uygulamanın müşterilerinin sitelerine yasalar ve standartlarla anında uyumluluk sağlayacağını vaat eden bazı kaplama satıcıları tarafından sağlanan aldatıcı pazarlamadır."
+- id: topic07p04
+  translation: "Kaplamaların etkisizliği, erişilebilirlik uygulayıcıları arasında geniş bir anlaşmaya sahip olan bir şeydir; <a href=\"https://webaim.org/projects/practitionersurvey3/#overlay\">WebAIM Web Erişilebilirlik Uygulayıcıları Anketi</a> şunları bulmuştur:"
+- id: topic07p05
+  translation: "Güçlü bir çoğunluk (%67) katılımcı bu araçları hiç veya çok etkili değil olarak derecelendiriyor. Engelli katılımcılar daha az olumlu oldu; %72'si bunları hiç veya çok etkili değil olarak derecelendirdi ve sadece %2,4'ü çok etkili olarak derecelendirdi."
+- id: topic08
+  translation: "Bu bilgi formunun sponsorları ve imzacılarından açıklama"
+- id: topic08p01
+  translation: "Yukarıdaki bilgilerin bir sonucu olarak:"
+- id: topic08p02
+  translation: "Yasalar veya standartlarla otomatik uyumluluk sağladığını aldatıcı bir şekilde pazarlayan bir kaplamayı asla savunmayacağız, önermeyeceğiz veya entegre etmeyeceğiz"
+- id: topic08p03
+  translation: "Her zaman orijinal hatanın kaynağında erişilebilirlik sorunlarının düzeltilmesini savunacağız"
+- id: topic08p04
+  translation: "Kaplama satıcıları ürünlerini pazarlamak için aldatma kullandığında sessiz kalmayı reddedecek iz"
+- id: topic08p05
+  translation: "Daha spesifik olarak, burada web erişilebilirlik kaplamasının kaldırılmasını savunuyoruz ve bu ürünleri uygulamış olan site sahiplerini, sitelerini daha erişilebilir hale getirmek için daha sağlam, bağımsız ve kalıcı stratejiler kullanmaya teşvik ediyoruz"
+- id: topic08p06
+  translation: "İmzalayanlar:"
+- id: topic08p07
+  translation: "Bazı kaplama satıcıları, kaplama bilgi formunu rakiplerinin kendilerini itibarsızlaştırma çabası olarak çerçevelemeye çalıştı. Bu tür kaplama iddiaları, eleştiriyi saptırmak için insanları <a href=\"https://en.wikipedia.org/wiki/Gaslighting\">gaslighting</a> yapmaya çalışmanın ders kitabı örneğidir."
+- id: topic08p08
+  translation: "Bugün itibariyle, kaplama bilgi formunun imzacıları şunları içermektedir:"
+- id: topic08p09
+  translation: "<abbr title=\"Web İçeriği Erişilebilirlik Kılavuzları\">WCAG</abbr>, <abbr title=\"Erişilebilir Zengin İnternet Uygulamaları\">ARIA</abbr> ve <abbr title=\"Köprü Metni İşaretleme Dili\">HTML</abbr> spesifikasyonları için katkıda bulunanlar ve editörler"
+- id: topic08p10
+  translation: "<abbr title=\"Amerika Birleşik Devletleri\">ABD</abbr>, <abbr title=\"Birleşik Krallık\">İngiltere</abbr>, <abbr title=\"Hollanda\">Hollanda</abbr>, <abbr title=\"Kanada\">Kanada</abbr>, <abbr title=\"Japonya\">Japonya</abbr>, <abbr title=\"Almanya\">Almanya</abbr>, <abbr title=\"Fransa\">Fransa</abbr>, <abbr title=\"İsveç\">İsveç</abbr>, <abbr title=\"Norveç\">Norveç</abbr>, <abbr title=\"Belçika\">Belçika</abbr>, <abbr title=\"Polonya\">Polonya</abbr>, <abbr title=\"Avustralya\">Avustralya</abbr>, <abbr title=\"Danimarka\">Danimarka</abbr>, <abbr title=\"İsrail\">İsrail</abbr>, <abbr title=\"Şili\">Şili</abbr> ve daha fazlasından danışmanlar"
+- id: topic08p11
+  translation: "Google, Microsoft, Apple, NBC, Squarespace, BBC, VMWare, Shopify, ServiceNow, Dell, Lyft, HCL, Costco, Expedia, eBay, Cigna, Target, CVS Health, Kijiji, Orange, Pearson, Mitre, Sapient ve Pearson Assessments gibi şirketlerin dahili erişilebilirlik uzmanları"
+- id: topic08p12
+  translation: "Syracuse, CSU, Stuttgart Medya Üniversitesi, Massachusetts Üniversitesi, San Francisco Eyalet Üniversitesi, Gallaudet Üniversitesi, Carnegie Mellon, Batı Virginia Üniversitesi, MIT gibi yüksek öğretim kurumlarından dahili erişilebilirlik uzmanları"
+- id: topic08p13
+  translation: "Engelliler için avukatlar"
+- id: topic08p14
+  translation: "JAWS ve NVDA gibi yardımcı teknoloji yazılımlarına katkıda bulunanlar"
+- id: topic08p15
+  translation: "Çok sayıda engelli son kullanıcı"
+- id: topic08p16
+  translation: "Kısacası, aşağıdaki imzacılar listesi bu alanda uzman olan &amp; profesyonel kariyerlerini erişilebilirliğin iyileştirilmesine adamış kişilerdir veya engelli son kullanıcılardır (veya her ikisi). Aşağıda listelenen isimleri &quot;rakipler&quot; olarak yok saymak hem yanlıştır hem de noktayı kaçırır: kaplamalar, erişilebilirliği sağlamanın etkili bir yolu değildir - aşağıdaki tüm insanların hemfikir olduğu bir nokta."
+- id: topic09
+  translation: "Ek Okuma"
+- id: addYourName
+  translation: "Bu listeye adınızı ekleyin"
