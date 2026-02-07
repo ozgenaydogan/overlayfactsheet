@@ -78,6 +78,6 @@ home = ['HTML']
     contentDir = 'i18n/tr'
     weight = 8
     [languages.tr.params]
-      languageName = 'turkish'
+      languageName = 'türkçe'
       languageNameShort = 'tr'
       languageCode = 'tr'
