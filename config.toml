@@ -74,4 +74,10 @@ home = ['HTML']
       languageName = 'română'
       languageNameShort = 'ro'
       languageCode = 'ro'
-
+  [languages.tr]
+    contentDir = 'i18n/tr'
+    weight = 8
+    [languages.tr.params]
+      languageName = 'türkçe'
+      languageNameShort = 'tr'
+      languageCode = 'tr'
